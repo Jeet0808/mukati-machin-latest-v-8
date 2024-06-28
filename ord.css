@@ -1,0 +1,197 @@
+.addr{
+    height: 300px;
+    width: 550px;
+    background-color: rgba(12, 93, 186, 0.447);
+    align-items: center;
+    display: block;
+    justify-content: center;
+
+    position: relative;
+    left: 28rem;
+
+    font-size: xx-large;
+    top: 80px;
+
+    box-shadow: 5px 5px 5px rgb(56, 54, 54);
+}
+#muk{
+   
+    margin-left: 100px;
+    position: relative;
+    top: 8px;
+    font-size: xx-large;
+    left: 8px;
+    font-weight: 500;
+}
+.gmail{
+ 
+    width: 500px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    margin-left: 25px;
+}
+
+.gmail2{
+    
+    width: 500px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    margin-left: 25px;
+}
+
+
+#in1{
+    width: 300px;
+    border: 3px black;
+   margin-left: 5px;
+}
+
+#pas1{
+    margin-right: 125px;
+    
+}
+
+#pas2{
+    margin-right: 155px;
+    font-size: small;
+}
+
+#in2{
+    position: relative;
+    left: -120px;
+}
+
+#in3{
+    position: relative;
+    right: 150px;
+}
+
+
+#a1{
+    position: relative;
+    left: 900px;
+    font-size: x-large;
+    color: rgb(20, 20, 224);
+    top: 26px;
+}
+
+#a2{
+    position: relative;
+    left: 500px;
+    font-size: x-large;
+    color: rgb(20, 20, 224);
+}
+
+#a3{
+    position: relative;
+    left: 100px;
+    font-size: small;
+    color: rgb(2, 2, 123);
+    font-weight: 700;
+    top: 100px;
+}
+
+
+@media (max-width:500px){
+
+    #muk{
+   
+        margin-left: 100px;
+        position: relative;
+        top: 8px;
+        font-size: larger;
+        left: -28px;
+        font-weight: 700;
+    }
+    .gmail{
+     
+        width: 500px;
+        height: 50px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: large;
+        margin-left: -60px;
+    }
+    
+    .gmail2{
+        
+        width: 500px;
+        height: 50px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: large;
+        margin-left: -10px;
+    }
+    
+
+    #a1{
+        position: relative;
+        left: 280px;
+        font-size: x-large;
+        color: rgb(20, 20, 224);
+        top: 26px;
+    }
+    
+    #a2{
+        position: relative;
+        left: 50px;
+        font-size: x-large;
+        color: rgb(20, 20, 224);
+    }
+
+    .addr{
+        height: 300px;
+        width: 380px;
+        background-color: rgba(12, 93, 186, 0.447);
+        align-items: center;
+        display: block;
+        justify-content: center;
+    
+        position: relative;
+        left: 1px;
+    
+        font-size: large;
+        top: 80px;
+    
+        box-shadow: 5px 5px 5px rgb(56, 54, 54);
+    }
+
+    #in1{
+        width: 200px;
+        border: 3px black;
+       margin-left: 5px;
+    }
+    
+    #pas1{
+        margin-right: 125px;
+        
+    }
+    
+    #pas2{
+        margin-right: 50px;
+        font-size: small;
+    }
+    
+    #in2{
+        position: relative;
+        left: -120px;
+    }
+    
+    #in3{
+        position: relative;
+        right: 45px;
+    }
+    
+}
